@@ -17,5 +17,11 @@ Eğer aradığınız soruların cevapları GitHub docs'ta yok ise Google'lama be
 
 
 Cevaplar
-1. Git 
-2. Git ve Github arasındaki farklar
+1. Git, yazılım geliştirme süreçlerinde kullanılan bir versiyon kontrol sistemidir.
+2. GitHub, Git adlı bir sürüm kontrol sistemini (VCS) barındıran bulut tabanlı bir hizmettir. 
+3. Branch oluşturmak kullanıcıya çalıştığı projenin farklı versiyonlarına erişmesini sağlar.
+4. Fork ettiğimiz projenin üzerinde çalışarak proje üzerinde yaptığımız değişiklikleri, projenin sahibine pull request şeklinde gönderebiliriz. 
+5. 
+6. 
+7. 
+8. 
